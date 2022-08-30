@@ -1,4 +1,4 @@
-# Programa cliente-servidor que utiliza a interface de sockets e protocolo TCP.
+# Programa cliente-servidor que utiliza a interface de sockets, Demikernel e protocolo TCP.
 
 ## Parâmetros para execução:
 
